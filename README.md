@@ -1,6 +1,12 @@
 # fashion_bazar
 
-A new Flutter project.
+A simple e-commerce app
+
+## How it works
+
+![Simulator Screen Recording - iPhone 15 Pro - 2024-04-14 at 05 19 12](https://github.com/jalasem/fashion-bazar/assets/7319749/2b46d972-788d-47e4-950d-0504920fe93f)
+
+
 
 ## Getting Started
 
